@@ -55,7 +55,7 @@ Key outcomes:
 
 ```
 ├── Healthcare Analytics for Doctor Visits.csv   # Raw data
-├── KVPavanKumar_HealthcareAnalytics.ipynb       # Main analysis notebook
+├── KVPavanKumar_HealthcareAnalytics2.ipynb       # Main analysis notebook
 ├── KVPavanKumar_HealthcareAnalytics_ProjectReport.docx  # Full written report
 ├── requirements.txt                             # Python dependencies
 ├── README.md                                    # This file
