@@ -139,7 +139,7 @@ The notebook is self-contained — it reads the CSV from the same directory, per
 ## Author
 
 **KV Pavan Kumar**  
-Senior Data Analyst | Healthcare Analytics Specialist  
+ Data Analyst | Healthcare Analytics  
 [LinkedIn](#) · [GitHub](#)
 
 ---
@@ -147,4 +147,4 @@ Senior Data Analyst | Healthcare Analytics Specialist
 ## License
 
 This project is released for portfolio and educational purposes.  
-Dataset is from the public domain (Cameron & Trivedi, 1986 Australian Health Survey).
+
